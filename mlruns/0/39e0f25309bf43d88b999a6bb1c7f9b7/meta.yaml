@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlprojects/mlruns/0/39e0f25309bf43d88b999a6bb1c7f9b7/artifacts
+end_time: 1716023480932
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39e0f25309bf43d88b999a6bb1c7f9b7
+run_name: thundering-skunk-776
+run_uuid: 39e0f25309bf43d88b999a6bb1c7f9b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716023480851
+status: 3
+tags: []
+user_id: risha

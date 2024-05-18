@@ -23,10 +23,10 @@ class DataIngestion:
     def initiate_data_ingestion(self):
         try:
             ##reading the data from mysql
-            csv_path = r"D:\StudentsPerformance.csv"
+            
 
 # Read the CSV file into a pandas DataFrame
-            df = pd.read_csv(csv_path)
+            df=pd.read_csv(os.path.join(r"D:\StudentsPerformance.csv"))
             logging.info("Reading completed csv")
 
             os.makedirs(os.path.dirname(self.ingestion_config.train_data_path),exist_ok=True)

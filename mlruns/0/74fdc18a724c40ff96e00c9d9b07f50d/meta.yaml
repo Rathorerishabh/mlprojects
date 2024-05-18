@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlprojects/mlruns/0/74fdc18a724c40ff96e00c9d9b07f50d/artifacts
+end_time: 1716023147835
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74fdc18a724c40ff96e00c9d9b07f50d
+run_name: gifted-kite-873
+run_uuid: 74fdc18a724c40ff96e00c9d9b07f50d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716023147788
+status: 4
+tags: []
+user_id: risha
